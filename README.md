@@ -5,12 +5,20 @@
   <summary>Courses Table</summary>
   <table>
     <thead align="center">
-      <td>Courses</td>
-      <td>Links</td>      
+      <tr>
+        <td>Courses</td>
+        <td>Links</td>
+      </tr>
     </thead>
     <tbody>
-      <td>YAML - Zero to Master</td>
-      <td>https://www.udemy.com/course/yaml-zero-to-master/</td>
+      <tr>
+        <td>YAML - Zero to Master</td>
+        <td>https://www.udemy.com/course/yaml-zero-to-master/</td>
+      </tr>
+      <tr>
+        <td>Redes Neurais Artificiais em Python</td>
+        <td>https://www.udemy.com/course/redes-neurais-artificiais-em-python/</td>
+      </tr>
     </tbody>
   </table>
 </details>
