@@ -19,6 +19,10 @@
         <td>Redes Neurais Artificiais em Python</td>
         <td>https://www.udemy.com/course/redes-neurais-artificiais-em-python/</td>
       </tr>
+      <tr>
+        <td>Cientista de Dados Python para Iniciantes</td>
+        <td>https://www.udemy.com/course/python-data-science-para-iniciantes/</td>
+      </tr>
     </tbody>
   </table>
 </details>
